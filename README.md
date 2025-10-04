@@ -1,5 +1,5 @@
 <h1><span>Felipe Catarino de Souza</span></h1>
-<img src="2022-Todays-Industries-using-Java-Application.png">
+<img src="[2022-Todays-Industries-using-Java-Application.png](https://cdn.dribbble.com/userupload/23491411/file/original-f0a9b6ef10af1c8ddf6ac0367f2c948a.gif)">
 
 <h2>👋 Sobre Mim:</h2>
 Como estudante do 3º ano do Ensino Médio, direcionei meu forte interesse por Tecnologia da Informação para o estudo autodidata de infraestrutura de redes, protocolos de comunicação e sistemas operacionais baseados em Linux. Minha experiência prática utilizando o Linux Mint solidificou meu entendimento sobre performance e estabilidade de sistemas, e estou ansioso para aplicar e expandir esses conhecimentos em um curso técnico ou faculdade.
