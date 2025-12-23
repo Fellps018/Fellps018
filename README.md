@@ -7,10 +7,13 @@
 <a href="mailto:felipe.catarino.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://wa.me/5515997238091" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
-<img src="4k Programming Wallpaper for FREE.jpeg">
+<img src="Images/4k Programming Wallpaper for FREE.jpeg">
 
+<div  align="center" >
 <h2>👋 Sobre Mim:</h2>
 Como entusiasta de Tecnologia da Informação, direcionei meu aprendizado autodidata para o desenvolvimento de sistemas, com foco na criação de servidores, páginas web e aplicativos. Tenho também um forte interesse em sistemas operacionais, especialmente Linux, onde adquiri experiência prática com o Linux Mint, desenvolvendo habilidades em configuração, performance e administração de sistemas. Busco agora aplicar e expandir esses conhecimentos por meio de uma formação técnica ou superior na área de TI.
+
+</div>
 
 -----
 <div align="center">
@@ -27,7 +30,7 @@ Como entusiasta de Tecnologia da Informação, direcionei meu aprendizado autodi
     <img src="Images/docker.png" title="Docker"/>
 </div>
 </div>
-<div>
+<div  align="center">
   <h2>🎲 Estatisticas GitHub:</h2>
   <div justify-content="stretch">
 <a href="https://github.com/Fellps018/github-readme-stats">
