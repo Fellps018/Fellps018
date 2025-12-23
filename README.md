@@ -30,6 +30,8 @@ Como entusiasta de Tecnologia da Informação, direcionei meu aprendizado autodi
     <img src="Images/docker.png" title="Docker"/>
 </div>
 </div>
+
+-----
 <div  align="center">
   <h2>🎲 Estatisticas GitHub:</h2>
   <div justify-content="stretch">
@@ -45,6 +47,8 @@ Como entusiasta de Tecnologia da Informação, direcionei meu aprendizado autodi
 
 </div>
 </div>
+
+-----
 
 <h2>📞 Contato:</h2>
 
