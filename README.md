@@ -13,8 +13,7 @@
 
 <div  align="center" >
 <h2>👋 Sobre Mim:</h2>
-Como entusiasta de Tecnologia da Informação, direcionei meu aprendizado autodidata para o desenvolvimento de sistemas, com foco na criação de servidores, páginas web e aplicativos. Tenho também um forte interesse em sistemas operacionais, especialmente Linux, onde adquiri experiência prática com o Linux Mint, desenvolvendo habilidades em configuração, performance e administração de sistemas. Busco agora aplicar e expandir esses conhecimentos por meio de uma formação técnica ou superior na área de TI.
-
+<p> Como entusiasta de Tecnologia da Informação, direcionei meu aprendizado autodidata para o desenvolvimento de sistemas, com foco na criação de servidores, páginas web e aplicativos. Tenho também um forte interesse em sistemas operacionais, especialmente Linux, onde adquiri experiência prática com o Linux Mint, desenvolvendo habilidades em configuração, performance e administração de sistemas. Busco agora aplicar e expandir esses conhecimentos por meio de uma formação técnica ou superior na área de TI.</p> <img src="Trabalho.jpeg">
 </div>
 
 -----
