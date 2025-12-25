@@ -39,11 +39,9 @@
 <div  align="center">
   <h2>🎲 Estatisticas GitHub:</h2>
   <div justify-content="stretch">
-    
-<a href="https://github.com/Fellps018/github-readme-stats">
-  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=Fellps018"/>
-</a>
-    
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fellps018)](https://github.com/Fellps018/github-readme-stats)
+
 <a href="https://github.com/Fellps018/github-readme-stats">
   <img height=auto align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fellps018&layout=donut">
 </a>
