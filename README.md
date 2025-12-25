@@ -41,7 +41,7 @@
   <div justify-content="stretch">
     
 <a href="https://github.com/Fellps018/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Fellps018"/>
+  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=Fellps018"/>
 </a>
     
 <a href="https://github.com/Fellps018/github-readme-stats">
