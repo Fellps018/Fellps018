@@ -15,43 +15,15 @@
 <h2>👋 Sobre Mim:</h2>
 <p> Como entusiasta de Tecnologia da Informação, direcionei meu aprendizado autodidata para o desenvolvimento de sistemas, com foco na criação de servidores, páginas web e aplicativos. Tenho também um forte interesse em sistemas operacionais, especialmente Linux, onde adquiri experiência prática com o Linux Mint, desenvolvendo habilidades em configuração, performance e administração de sistemas. Busco agora aplicar e expandir esses conhecimentos por meio de uma formação técnica ou superior na área de TI.</p> 
 
-<img src="Images/Trabalho.jpeg" height="120px" width="120px">
-
 </div>
 
 -----
-<div align="center">
-    <h2>🌐 Tecnologias:</h2>
-  <div justify-content="stretch">
-    <img src="Images/java.png" title="Java"/>
-    <img src="Images/spring.png" title="SpringBoot"/>
-    <img src="Images/python.png" title="Python"/>
-    <img src="Images/excel.png" title="Excel"/>
-    <img src="Images/nuvem.png" title="Cloud"/>
-    <img src="Images/dados.png" title="My SQL & PostgreSQL"/>
-    <img src="Images/git.png" title="Git"/>
-    <img src="Images/github.png" title="GitHub"/>
-    <img src="Images/docker.png" title="Docker"/>
-</div>
-</div>
+## 🌐 Tecnologias: 
 
------
-<div  align="center">
-  <h2>🎲 Estatisticas GitHub:</h2>
-  <div justify-content="stretch">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fellps018)](https://github.com/Fellps018/github-readme-stats)
-
-<a href="https://github.com/Fellps018/github-readme-stats">
-  <img height=auto align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fellps018&layout=donut">
-</a>
-
-<br>
-    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fellps018&hide_progress=true)
-
-</div>
-</div>
+| Setor    | ferramentas    | 
+|----------|----------------|
+| Front-End| ![python](Images/python.png)     |
+| Back-End | ![Java](Images/java.png) ![SpringBoot](Images/spring.png)    |
 
 -----
 
