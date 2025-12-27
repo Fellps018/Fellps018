@@ -12,18 +12,23 @@
 -----
 
 <div  align="center" >
-<h2>👋 Sobre Mim:</h2>
-<p> Como entusiasta de Tecnologia da Informação, direcionei meu aprendizado autodidata para o desenvolvimento de sistemas, com foco na criação de servidores, páginas web e aplicativos. Tenho também um forte interesse em sistemas operacionais, especialmente Linux, onde adquiri experiência prática com o Linux Mint, desenvolvendo habilidades em configuração, performance e administração de sistemas. Busco agora aplicar e expandir esses conhecimentos por meio de uma formação técnica ou superior na área de TI.</p> 
+  
+## 👋 Sobre Mim:
+
+<p> Como entusiasta de Tecnologia da Informação, direcionei meu aprendizado autodidata para o desenvolvimento de sistemas, com foco na criação de servidores, páginas web e aplicativos. Tenho também um forte interesse em sistemas operacionais, especialmente Linux, onde adquiri experiência prática com o Linux Mint, desenvolvendo habilidades em configuração, performance e administração de sistemas. Busco agora aplicar e expandir esses conhecimentos por meio de uma formação técnica ou superior na área de TI.
+</p> 
 
 </div>
 
 -----
-## 🌐 Tecnologias: 
 
-| Setor    | ferramentas    | 
-|----------|----------------|
-| Front-End| ![python](Images/python.png)     |
-| Back-End | ![Java](Images/java.png) ![SpringBoot](Images/spring.png)    |
+<div align="center">
+  
+|  🌐 Tecnologias:         |
+|--------------------------|
+| ![Java](Images/java.png) ![SpringBoot](Images/spring.png) ![python](Images/python.png) ![Excel](Images/excel.png) ![MySQL & postgreSQL](Images/dados.png) ![Docker](Images/docker.png) ![Git](Images/git.png) ![GitHub](Images/github.png)|
+
+</div>
 
 -----
 
