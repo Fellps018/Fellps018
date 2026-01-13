@@ -1,4 +1,4 @@
-<h1><img src="Images/icons8-computador-20.png"> <span>⌨️Felipe Catarino de Souza</span></h1>
+<h1><img src="Images/icons8-computador-20.png"> <span>Felipe Catarino de Souza</span></h1>
 
 <p align-items="stretch">
 <a href="https://www.linkedin.com/in/felipe-catarino-de-souza-8a0907373" target="_blank">
