@@ -4,11 +4,22 @@
 -----
 
 <div  align="center" >
-  
-## 👋 Sobre Mim:
 
-<p> Como entusiasta de Tecnologia da Informação, direcionei meu aprendizado autodidata para o desenvolvimento de sistemas, com foco na criação de servidores, páginas web e aplicativos. Tenho também um forte interesse em sistemas operacionais, especialmente Linux, onde adquiri experiência prática com o Linux Mint, desenvolvendo habilidades em configuração, performance e administração de sistemas. Busco agora aplicar e expandir esses conhecimentos por meio de uma formação técnica ou superior na área de TI.
-</p> 
+
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+<div>
+
+👋 **Sobre Mim**
+
+Como entusiasta de Tecnologia da Informação, direcionei meu aprendizado autodidata para o desenvolvimento de sistemas, com foco na criação de servidores, páginas web e aplicativos.
+
+Tenho também um forte interesse em sistemas operacionais, especialmente **Linux**, onde adquiri experiência prática com o **Linux Mint**, desenvolvendo habilidades em configuração, performance e administração de sistemas.
+
+Busco agora aplicar e expandir esses conhecimentos por meio de uma formação técnica ou superior na área de **TI**.
+
+🔗 **Links**  
+
 <p align-items="stretch">
 <a href="https://www.linkedin.com/in/felipe-catarino-de-souza-8a0907373" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -17,6 +28,11 @@
 </p>
 
 </div>
+
+<img width="200px" src="Images/WhatsApp Image 2026-01-10 at 23.24.19.jpeg">
+
+</div>
+
 
 -----
 
