@@ -1,6 +1,7 @@
 <h1><img src="Images/icons8-computador-20.png"> <span>Felipe Catarino de Souza</span></h1>
 <img src="Images/nkrg.jpeg" height="auto" width="1000">
------
+
+----------
 
 |  <h2>👋**Sobre Mim:**</h2>   | |
 |----------|--|
