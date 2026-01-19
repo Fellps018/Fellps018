@@ -9,9 +9,12 @@
 
 ------
 
-|<h2> Minhas Skills: </h2> |                  |
-|--------------------------|------------------|
-|                          |                  |
+## 🛠️ Minhas Skills
+
+| GitHub Stats | Linguagens Mais Usadas |
+|-------------|------------------------|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fellps018&show_icons=true&theme=radical&layout=donut)|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fellps018&show_icons=true&theme=radical)|
+|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fellps018&show_icons=true&theme=radical&layout=compact)| ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fellps018&show_icons=true&theme=radical&repo=Portfolio_React)|
 
 
 <div align="center">
