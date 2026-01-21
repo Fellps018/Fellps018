@@ -15,14 +15,13 @@
 |-------------|------------------------|
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fellps018&show_icons=true&theme=radical)|   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fellps018&show_icons=true&theme=radical&layout=compact) |
 
+-------------
 
-<div align="center">
-  
-|  <h2>🌐 Tecnologias:</h2>         |
+## 🌐 Tecnologias:   
+|                          |
 |--------------------------|
 |![My Skills](https://skillicons.dev/icons?i=html,css,js,react,java,spring,postgres,mysql,python,git,github,mint,docker,md,vscode)|
 
-</div>
 
 -----
 
