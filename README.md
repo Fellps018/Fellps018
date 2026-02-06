@@ -9,14 +9,6 @@
 
 ------
 
-## 🛠️ Minhas Skills:
-
-|  | |
-|-------------|------------------------|
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fellps018&show_icons=true&theme=radica)   |   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fellps018&show_icons=true&theme=radical&layout=compact) |
-
--------------
-
 ## 🌐 Tecnologias:   
 |                          |
 |--------------------------|
@@ -25,12 +17,6 @@
 
 -----
 
-## 🧩Melhores Projetos:  
-|                                  |                          |
-|----------------------------------|--------------------------|
-| ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fellps018&show_icons=true&theme=radical&repo=Developer-Fullstack-Felipe) | ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fellps018&show_icons=true&theme=radical&repo=Estrutura-de-Dados)   |
-
-------
 
 <h2>📞 Contato:</h2>
 
