@@ -1,6 +1,7 @@
-<h1><img src="Images/icons8-computador-20.png"> <span>Felipe Catarino de Souza</span></h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c234c9&height=120&section=header"/>
 <img src="https://wallpapercave.com/wp/wp12426258.png" height="auto" width="1000px">
 
+<h1><img src="Images/icons8-computador-20.png"> <span>Felipe Catarino de Souza</span></h1>
 ----------
 
 |  <h2>👋**Sobre Mim:**</h2>   |   | 
@@ -26,3 +27,6 @@ E-mail: felipe.catarino.dev@gmail.com
 
 -------
 ⭐️ Sempre em busca de evolução e novos desafios!
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c234c9&height=120&section=footer"/>
