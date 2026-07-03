@@ -14,7 +14,7 @@
 ## 🌐 Tecnologias:   
 |                          |
 |--------------------------|
-|![My Skills](https://skillicons.dev/icons?i=html,css,js,react,java,spring,postgres,mysql,python,git,github,mint,docker,md,vscode)|
+|![My Skills](https://skillicons.dev/icons?i=html,css,js,python,java,c,react,spring,postgres,mysql,docker,git,github,md,vscode)|
 
 
 -----
