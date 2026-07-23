@@ -23,11 +23,11 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><b>Frontend</b><br><img src="https://skillicons.dev/icons?i=html,css,react,angular,js,ts,vite,tailwind,bootstrap" /></td>
+      <td align="center"><b>Frontend</b><br><img src="https://skillicons.dev/icons?i=html,css,react,angular,vite,tailwind,bootstrap" /></td>
       <td align="center"><b>Backend</b><br><img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,postgres,django" /></td>
     </tr>
     <tr>
-      <td align="center"><b>Lenguages</b><br><img src="https://skillicons.dev/icons?i=java,c,cpp,js,python" /></td>
+      <td align="center"><b>Lenguages</b><br><img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python" /></td>
       <td align="center"><b>DevOps and Tools</b><br><img src="https://skillicons.dev/icons?i=docker,git,github,vscode,npm,md,redhat,mint,linux" /></td>
     </tr>
   </table>
