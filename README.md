@@ -5,7 +5,7 @@
 
 ---
 
- ## 👋 **About Me**
+ ## 🎯 biography and Statistics
 
 <table>
 <tr>
@@ -16,6 +16,8 @@
 </td>
 <td width="50%" valign="top" style="border:none;">
  
+ 👋 **About Me:**
+ <br>
 As an Information Technology enthusiast, I have focused my self-directed learning on systems development, specifically the creation of servers, web pages, and applications. I also have a strong interest in operating systems—particularly Linux—having gained practical experience with Linux Mint and developed skills in configuration, performance optimization, and system administration. I now aim to apply and expand this knowledge through formal technical or higher education in the IT field.
 
 </td>
@@ -24,8 +26,9 @@ As an Information Technology enthusiast, I have focused my self-directed learnin
 </table>
 
 ---
-
-[![trophy](https://github-profile-trophy-gamma-seven.vercel.app/?username=Fellps018&alltime=true&theme=light&margin-w=4&row=1&column=9)](https://github.com/Fellps018/github-profile-trophy) 
+|🏆  Achievements: |
+|----|
+|[![trophy](https://github-profile-trophy-gamma-seven.vercel.app/?username=Fellps018&alltime=true&theme=light&margin-w=4&row=1&column=9)](https://github.com/Fellps018/github-profile-trophy)|
 
 ---
 
@@ -66,17 +69,15 @@ As an Information Technology enthusiast, I have focused my self-directed learnin
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fellps018&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
+ 
 ----
 
-<h2>📞 Contact:</h2>
+## 🔗 Links and Contact:
 
-Phone: (15) 99723-8091
-
-E-mail: felipe.catarino.dev@gmail.com
+<a href="https://fellps018.github.io/Portfolio-Web/" title="Portfólio">![Portfólio](https://img.icons8.com/?size=45&id=vNV6D8NcqAhw&format=png&color=000000)</a> <a href="https://www.linkedin.com/in/felipe-catarino-de-souza-8a0907373" title="Linkedin">![Linkedin](https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000)</a> <a href="mailto:felipe.catarino.dev@gmail.com" title="Gmail">![Gmail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)</a> <a href="https://wa.me/5515997238091" title="WhatssApp">![Whats](https://img.icons8.com/?size=50&id=16713&format=png&color=000000)</a> 
 
 ---
+
 ⭐️ Always seeking growth and new challenges!
 
 
