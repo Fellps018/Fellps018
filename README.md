@@ -7,7 +7,7 @@
 
 <table>
 <tr>
-<td width="45%" valign="top" align="center" style="border:none;">
+<td width="50%" valign="top" align="center" style="border:none;">
 
 <img width="100%" src="https://stats.hyo.dev/api/github-stats-advanced?login=Fellps018" alt="GitHub Streak"/>
 <br>
@@ -15,7 +15,7 @@
 <img width="100%" src="https://github-stats-mu-nine.vercel.app/api?username=Fellps018&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1116&theme=algolia&hide_border=true" alt="GitHub Stats"/> 
 
 </td>
-<td width="55%" valign="top" style="border:none;">
+<td width="50%" valign="top" style="border:none;">
 
  ## 👋 **About Me**
  
