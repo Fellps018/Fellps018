@@ -7,7 +7,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top" align="center" style="border:none;">
+<td width="60%" valign="top" align="center" style="border:none;">
 
 <img width="100%" src="https://stats.hyo.dev/api/github-stats-advanced?login=Fellps018" alt="GitHub Streak"/>
 <br>
@@ -15,20 +15,19 @@
 <img width="90%"  src="https://github-stats-mu-nine.vercel.app/api?username=Fellps018&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1116&theme=algolia&hide_border=true" alt="GitHub Stats"/> 
 
 </td>
-<td width="50%" valign="top" style="border:none;">
+<td width="40%" valign="top" style="border:none;">
 
  ## 👋 **About Me**
+ <br>
  
 As an Information Technology enthusiast, I have focused my self-directed learning on systems development, specifically the creation of servers, web pages, and applications. I also have a strong interest in operating systems—particularly Linux—having gained practical experience with Linux Mint and developed skills in configuration, performance optimization, and system administration. I now aim to apply and expand this knowledge through formal technical or higher education in the IT field.
 
 <br>
 
  <h3> 🔗Links: </h3>
-|  |
-|---|
-|  <a href="https://fellps018.github.io/Portfolio-Web/" title="Portfólio">![Portfólio](https://img.icons8.com/?size=45&id=vNV6D8NcqAhw&format=png&color=000000)</a> <a href="https://www.linkedin.com/in/felipe-catarino-de-souza-8a0907373" title="Linkedin">![Linkedin](https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000)</a> <a href="mailto:felipe.catarino.dev@gmail.com" title="Gmail">![Gmail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)</a> <a href="https://wa.me/5515997238091" title="WhatssApp">![Whats](https://img.icons8.com/?size=50&id=16713&format=png&color=000000)</a> |
+ 
+ <a href="https://fellps018.github.io/Portfolio-Web/" title="Portfólio">![Portfólio](https://img.icons8.com/?size=45&id=vNV6D8NcqAhw&format=png&color=000000)</a> <a href="https://www.linkedin.com/in/felipe-catarino-de-souza-8a0907373" title="Linkedin">![Linkedin](https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000)</a> <a href="mailto:felipe.catarino.dev@gmail.com" title="Gmail">![Gmail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)</a> <a href="https://wa.me/5515997238091" title="WhatssApp">![Whats](https://img.icons8.com/?size=50&id=16713&format=png&color=000000)</a> 
 
-|----------|
 
 </td>
 
