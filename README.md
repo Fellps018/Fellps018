@@ -7,13 +7,11 @@
 
  ## 🎯 biography and Statistics
 
-<table>
-<tr>
-<td width="50%" valign="top" align="center" style="border:none;">
-
 <img width="100%" src="https://stats.hyo.dev/api/github-stats-advanced?login=Fellps018" alt="GitHub Streak"/>
 
-</td>
+
+<table>
+<tr>
 <td width="50%" valign="top" style="border:none;">
  
  👋 **About Me:**
