@@ -45,7 +45,7 @@ As an Information Technology enthusiast, I have focused my self-directed learnin
 ---
 |🏆  Achievements: |
 |----|
-|[![trophy](https://github-profile-trophy-gamma-seven.vercel.app/?username=Fellps018&alltime=true&theme=light&margin-w=4&row=1&column=9)](https://github.com/Fellps018/github-profile-trophy)|
+| <img valign="center" align="center" src="https://github-profile-trophy-gamma-seven.vercel.app/?username=Fellps018&alltime=true&theme=light&margin-w=4&row=1&column=9" width="auto"> |
 
 ---
 
