@@ -1,27 +1,29 @@
 
-<img src=" " height="auto" width="1000px">
+<img src="assets/banner.gif" height="200px" width="100%">
 
-<h1><img src=" "> <span>Felipe Catarino de Souza</span></h1>
+<h1><img src="assets/icons8-robô-96.png" width="40px"> <span>Felipe Catarino de Souza</span></h1>
 
 ---
 
- ## 🎯 biography and Statistics
-
-<img width="50%" src="https://stats.hyo.dev/api/github-stats-advanced?login=Fellps018" alt="GitHub Streak"/>
-
-
-<table>
-<tr>
-<td width="50%" valign="top" style="border:none;">
+ ## 🎯 biography and statistic
 
  👋 **About Me:**
  <br>
 As an Information Technology enthusiast, I have focused my self-directed learning on systems development, specifically the creation of servers, web pages, and applications. I also have a strong interest in operating systems—particularly Linux—having gained practical experience with Linux Mint and developed skills in configuration, performance optimization, and system administration. I now aim to apply and expand this knowledge through formal technical or higher education in the IT field.
+                           
 
+<table>
+<tr>
+<td width="50%" valign="top">
+<img width="auto" src="https://stats.hyo.dev/api/github-stats-advanced?login=Fellps018" alt="GitHub Streak"/>
 </td>
-
+<td width="50%" valign="top">
+<img width="auto" src="assets/network.jpg" >
+</td>
 </tr>
 </table>
+
+
 
 ---
 |🏆  Achievements: |
@@ -69,9 +71,7 @@ As an Information Technology enthusiast, I have focused my self-directed learnin
 
 <a href="https://fellps018.github.io/Portfolio-Web/" title="Portfólio">![Portfólio](https://img.icons8.com/?size=45&id=vNV6D8NcqAhw&format=png&color=000000)</a> <a href="https://www.linkedin.com/in/felipe-catarino-de-souza-8a0907373" title="Linkedin">![Linkedin](https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000)</a> <a href="mailto:felipe.catarino.dev@gmail.com" title="Gmail">![Gmail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)</a> <a href="https://wa.me/5515997238091" title="WhatssApp">![Whats](https://img.icons8.com/?size=50&id=16713&format=png&color=000000)</a>
 
+
 ---
 
-⭐️ Always seeking growth and new challenges!
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c234c9&height=120&section=footer"/>
+<img src="assets/image-car.gif" width="100%" height="200px">
