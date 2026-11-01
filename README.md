@@ -1,7 +1,7 @@
 <img src="assets/banner.gif" height="200px" width="100%">
 
 <h1 align="center">
-  <img src="assets/$ Felipe Catarino de Souza_20261101_011141_0000.gif" alt="$ Felipe Catarino de Souza" height="100px" width="90%">
+  <img src="assets/name-gif-github_20261101_123748_0000.gif" alt="$ Felipe Catarino de Souza" height="100px" width="90%">
 </h1>
 
 ---
@@ -13,7 +13,7 @@
 <tr>
 <td width="40%" valign="center">
 
-<img src="assets/brain.gif" width="">
+<img src="assets/48a0187ad067592dcbf7e3599387f61b.jpg" width="">
 
 </td>
 <td width="50%" valign="center">
@@ -91,4 +91,4 @@ As an Information Technology enthusiast, I have focused my self-directed learnin
 
 ---
 
-<img src="assets/image-car.gif" width="100%" height="200px">
+<img src="assets/74c66e4fdb274d76f3eeb2cb59573096.jpg" width="100%" height="auto">
