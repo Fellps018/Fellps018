@@ -1,23 +1,44 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alien+Block&family=Redaction+70&display=swap" rel="stylesheet">
 
 <img src="assets/banner.gif" height="200px" width="100%">
 
-<h1><img src="assets/icons8-robô-96.png" width="40px"> <span>Felipe Catarino de Souza</span></h1>
+<h1 style= "font-family: Alien Block, sans-serif;
+  font-weight: 200;
+  font-style: normal;" align="center" > <!-- <img src="assets/icons8-robô-96.png" width="40px" --> >< <span> Felipe Catarino de Souza </span> >< </h1>
 
 ---
 
  ## 🎯 biography and statistic
 
+
+<table>
+<tr>
+<td width="40%" valign="center">
+
+<img src="assets/brain.gif" width="">
+
+</td>
+<td width="50%" valign="center">
+
+
  👋 **About Me:**
  <br>
 As an Information Technology enthusiast, I have focused my self-directed learning on systems development, specifically the creation of servers, web pages, and applications. I also have a strong interest in operating systems—particularly Linux—having gained practical experience with Linux Mint and developed skills in configuration, performance optimization, and system administration. I now aim to apply and expand this knowledge through formal technical or higher education in the IT field.
                            
+</td>
+</tr>
+</table>
+
+---
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<img width="auto" src="https://stats.hyo.dev/api/github-stats-advanced?login=Fellps018" alt="GitHub Streak"/>
+<td width="50%" valign="center">
+<img width="auto" src="assets/neuron.jpg" alt="GitHub Streak"/>
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="center">
 <img width="auto" src="assets/network.jpg" >
 </td>
 </tr>
