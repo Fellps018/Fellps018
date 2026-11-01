@@ -1,12 +1,8 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Alien+Block&family=Redaction+70&display=swap" rel="stylesheet">
-
 <img src="assets/banner.gif" height="200px" width="100%">
 
-<h1 style= "font-family: Alien Block, sans-serif;
-  font-weight: 200;
-  font-style: normal;" align="center" > <!-- <img src="assets/icons8-robô-96.png" width="40px" --> $ <span> Felipe Catarino de Souza </span></h1>
+<h1 align="center">
+  <img src="assets/seu-nome-estilizado.png" alt="$ Felipe Catarino de Souza" width="400px">
+</h1>
 
 ---
 
