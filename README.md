@@ -1,7 +1,7 @@
 <img src="assets/banner.gif" height="200px" width="100%">
 
 <h1 align="center">
-  <img src="assets/seu-nome-estilizado.png" alt="$ Felipe Catarino de Souza" width="400px">
+  <img src="assets/$ Felipe Catarino de Souza_20261101_010418_0000.gif" alt="$ Felipe Catarino de Souza" height="100px" width="400px">
 </h1>
 
 ---
