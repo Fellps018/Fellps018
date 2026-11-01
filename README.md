@@ -6,7 +6,7 @@
 
 <h1 style= "font-family: Alien Block, sans-serif;
   font-weight: 200;
-  font-style: normal;" align="center" > <!-- <img src="assets/icons8-robô-96.png" width="40px" --> >< <span> Felipe Catarino de Souza </span> >< </h1>
+  font-style: normal;" align="center" > <!-- <img src="assets/icons8-robô-96.png" width="40px" --> $ <span> Felipe Catarino de Souza </span></h1>
 
 ---
 
