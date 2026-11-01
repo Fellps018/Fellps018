@@ -1,13 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c234c9&height=120&section=header"/>
-<img src="https://wallpapercave.com/wp/wp12426258.png" height="auto" width="1000px">
 
-<h1><img src="Images/icons8-computador-20.png"> <span>Felipe Catarino de Souza</span></h1>
+<img src=" " height="auto" width="1000px">
+
+<h1><img src=" "> <span>Felipe Catarino de Souza</span></h1>
 
 ---
 
  ## 🎯 biography and Statistics
 
-<img width="100%" src="https://stats.hyo.dev/api/github-stats-advanced?login=Fellps018" alt="GitHub Streak"/>
+<img width="50%" src="https://stats.hyo.dev/api/github-stats-advanced?login=Fellps018" alt="GitHub Streak"/>
 
 
 <table>
